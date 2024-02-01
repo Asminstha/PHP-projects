@@ -18,6 +18,7 @@ Delete: Remove student records from the database.
 
 
 ----------------------Technologies Used----------------
+
 PHP: Backend scripting language for server-side logic and database interaction.
 
 MySQL: Relational database management system for data storage.
